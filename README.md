@@ -3,8 +3,10 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sym2596)
 
 ![NuGuri03's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuGuri03&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuGuri03)
+</div>
 
+<div align="center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuGuri03)
 </div>
 
 <!---
