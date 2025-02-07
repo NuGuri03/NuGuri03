@@ -1,4 +1,4 @@
-# 👨‍💻Nuguri03👨‍🎓
+# 🦝Nuguri03👨‍💻
 <div align="center">
   
   <table>
