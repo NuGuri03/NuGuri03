@@ -9,7 +9,7 @@
 
   <div style="margin-top: 10px;">
     <a href="https://solved.ac/profile/sym2596">
-      <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sym2596" height="160"/>
+      <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sym2596" height="156"/>
     </a>
   </div>
 
