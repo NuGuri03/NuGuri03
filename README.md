@@ -1,7 +1,7 @@
 ##  🦝About me
 - **Kyungpook National University(KNU)**
   - **Major**: 🖥️Computer Science and Engineering (CSE) 
-  - **Minor**: ⚛️Physics ~~(반갑습니다 최고의 물리만점전략가 배기범입니다)~~
+  - **Minor**: ⚛️Physics
 ### ✅solved.ac
 <div style="margin-top: 10px;">
   <a href="https://solved.ac/sym2596">
