@@ -3,8 +3,6 @@
   - **Major**: 🖥️Computer Science and Engineering (CSE) 
   - **Minor**: ⚛️Physics
 
----
-
 ### 🛠 Tech Stack
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -14,6 +12,7 @@
 <br>
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+<br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 👨🏻‍💻 GitHub
