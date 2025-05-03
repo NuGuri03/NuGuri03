@@ -1,4 +1,4 @@
-# 🦝 Who am I?
+## 🦝 Who am I?
 **Kyungpook National University(KNU)** (2024.03.03 ~) 
   - **Major**: 🖥️Computer Science and Engineering (CSE) 
   - **Minor**: ⚛️Physics
